@@ -1,7 +1,7 @@
 inc
 inc
 inc
-movr
+begin
 inc
+end
 print
-
