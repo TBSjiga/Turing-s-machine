@@ -30,7 +30,8 @@ int line()
   return 0;
 }
 
-int get_code(char * com){
+int get_code(char * com)
+{
     if((com[0] == 'm') && (com[3] == 'l'))    /*movl*/
         {
           return 1;
